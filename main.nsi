@@ -8,7 +8,6 @@ OutFile "InnoAllInOneInstallerbyRikkoMats.exe"
 !insertmacro MUI_PAGE_INSTFILES
 !insertmacro MUI_PAGE_FINISH
 !insertmacro MUI_LANGUAGE "English"
-!define SND_ASYNCLOOP 0x0009
 BrandingText "InnoALLINONE"
 
 ;--------------------------------
